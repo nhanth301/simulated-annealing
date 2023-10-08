@@ -37,7 +37,7 @@ người bán hàng có thể đi qua mỗi thành phố duy nhất một lần.
 Mục tiêu của bài toán TSP là tìm tuyến đường ngắn nhất để người bán hàng đi qua tất cả 
 các thành phố và quay trở lại thành phố xuất phát. Giải pháp tối ưu sẽ là một chuỗi các thành phố 
 được sắp xếp sao cho tổng khoảng cách giữa các thành phố liên tiếp là nhỏ nhất
-Phương pháp tìm kiếm Simulated Annealing có thể được áp dụng để giải quyết bài toán TSP. 
+Phương pháp tìm kiếm Simulated Annealing có thể được áp dụng để giải quyết bài toán TSP 
 
 Quá trình tìm kiếm sẽ bắt đầu bằng việc tạo ra một chuỗi ngẫu nhiên của các thành phố và 
 dần dần cải thiện nó qua các vòng lặp. Trong mỗi vòng lặp, một trạng thái mới sẽ được tạo 
